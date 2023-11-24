@@ -1,2 +1,2 @@
 # skypro_github
-Hometask
+## Домашняя работа Skypro "Системы контроля версий"
